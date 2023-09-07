@@ -1,0 +1,54 @@
+{
+    "titulo": [
+        {
+            "type": "neutral",
+            "msg": "Sua expressão é de neutralidade, portanto não conseguimos identificar qual é a sua emoção neste momento. Mas pedimos que você faça uma análise sobre as situações vivenciadas, assim como, das emoções predominantes no seu dia a dia. "
+        },
+        {
+            "type": "happy",
+            "msg": "Você parece estar feliz, acertei? Se realmente estiver saiba que nós nos alegramos também!"
+        },
+        {
+            "type": "sad",
+            "msg": "Poxa, percebemos que você pode estar triste e também nos entristecemos com isso!"
+        },
+        {
+            "type": "angry",
+            "msg": "Caramba, percebemos que você pode estar com raiva, saiba que tudo na vida requer paciência!"
+        }
+    ],
+    "mensagens": [
+        "Existe uma versão de você no futuro que está orgulhosa por você estar segurando essa barra sem desistir.",
+        "Há alguém mesmo que você não note que te nota e quer te ter por perto, nunca desista dos seus sonhos por uma bobeira que ouviu de alguém, você não é o que os outros pensam de ti.",
+        "A vida pode ser difícil, mas lembre-se que todos que estão onde você queria estar já sentiram tudo isso e não há problema em pedir ajuda, ouça o que você tem de mais precioso dentro de si que só você sabe.",
+        "Essa tempestade também vai passar e mais uma vez o sol voltará a brilhar!",
+        "Não importa o que aconteceu em seu passado, confie em seu futuro. Sempre podemos reescrevê-lo no momento presente.",
+        "Não importa onde nem em qual momento da vida você parou, sempre é possível recomeçar. Busque se reconectar com sua essência, acredite você é mais do que dias ou palavras ruins. ",
+        "Não importa onde nem em qual momento da vida você parou, sempre é possível recomeçar. Busque se reconectar com sua essência, acredite você é mais do que dias ou palavras ruins.",
+        "Olhe para dentro de você e descubra sua força interior, pois é dela que virá a solução para superar os seus medos. Se ela vier a faltar, lembre-se tudo o que já viveu. Você já conseguiu uma vez e pode de novo!",
+        "Quando pensar em desistir, lembre-se dos motivos que lhe fizeram aguentar por tanto tempo. Eles valem a pena tanto quanto você!",
+        "A alegria de fazer o bem é a única felicidade verdadeira. Alegre-se, pois, você restaurou a esperança de alguém que só precisava um braço amigo e alguém para ouvi-la.",
+        "A verdadeira felicidade vem da alegria de atos bem-feitos, do sabor de criar coisas renovadas.",
+        "A razão pela qual algumas pessoas acham tão difícil serem felizes é porque estão sempre a julgar o passado melhor do que foi, o presente pior do que é e o futuro melhor do que será.",
+        "As pessoas felizes lembram o passado com gratidão, alegram-se com o presente e encaram o futuro sem medo.",
+        "As pessoas são, em geral, tão felizes quanto decidem ser.",
+        "Algumas vezes, coisas ruins acontecem em nossas vidas para nos colocar na direção das melhores coisas que poderíamos viver.",
+        "Sua felicidade é uma luz que ilumina seu caminho e o de outros. Continue brilhando e inspirando o mundo ao seu redor!",
+        "Lembre-se de que a vida é feita de altos e baixos. Nas horas de felicidade, celebre e aproveite cada momento como um presente precioso.",
+        "A felicidade é uma jornada, não um destino. Continue sorrindo, porque cada dia traz novas oportunidades para ser ainda mais feliz.",
+        "Seja grato pelas alegrias da vida e compartilhe seu sorriso com o mundo. Sua felicidade é contagiosa!",
+        "A alegria é a sua força interior. Use-a para superar desafios e inspirar os outros a encontrarem a felicidade em suas próprias vidas.",
+        "O sucesso não vem daquilo que você faz ocasionalmente. Ele vem do que você faz consistentemente.",
+        "Para aqueles que estão determinados a voar, não ter asas é apenas um detalhe.",
+        "A verdadeira felicidade começa quando você se permite sentir e explorar suas emoções. Mesmo em momentos de neutralidade, encontre beleza nas pequenas coisas.",
+        "Às vezes, a felicidade é como um tesouro escondido, esperando ser descoberto. Continue explorando, pois você nunca sabe quando encontrará um momento de alegria.",
+        "A alegria é o tempero da vida, e seu rosto feliz é a receita perfeita. Continue saboreando cada momento e espalhando a felicidade por onde passar!",
+        "A felicidade é a sua superpotência secreta. Use-a para enfrentar desafios e criar um mundo melhor para você e para os outros!",
+        "Onde há vontade, há chance de dar certo.",
+        "A felicidade é como um ímã que atrai coisas boas para a sua vida. Continue sendo feliz, e o universo conspirará a seu favor",
+        "A vida não é perfeita, mas com muito trabalho você pode torná-la melhor. Espero que você tenha muitas ocasiões para comemorar seus sucessos",
+        "Mantenha a cabeça erguida com um sorriso no rosto, trabalhe duro e seja fiel a si mesmo. O sucesso certamente tocará sua vida.",
+        "Seu sorriso é uma obra de arte única. Continue pintando a tela da vida com cores vibrantes de felicidade e inspire o mundo com sua criação",
+        "A vida é curta demais para deixarmos nossos sonhos adormecidos."
+    ]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detecção Facial</title>
+
+    <script defer src="./face-api.min.js"></script>
+    <script defer src="./main.js"></script>
+
+    <style>
+        body {
+            width: 100vw;
+            height: 100vh;
+            
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        canvas {
+            position: absolute;
+        }
+
+    </style>
+</head>
+<body>
+    <div style="height: 100%; width: 100%;display:flex;align-items:center;justify-content: center;flex-direction: column;">
+        <h2 style="color: f5d130; font-family: Verdana, sans-serif;text-align: center;"> Olá, como você está se sentindo?</h2>
+        <h3 style="color: f5d130; font-family: Verdana, sans-serif; font-weight: bold;text-align: center;"> Vamos analisar!</h3>
+        <video id="video" width="500" height="500" muted></video>
+        <h3 id="titulo" style="font-family: Verdana, sans-serif; font-weight: 200;text-align: center;"> </h3>
+        <h4 id="ajuda" style="font-family: Verdana, sans-serif; font-weight: 500;text-align: center;"> </h4>
+        <h4 id="frase" style="font-family: Verdana, sans-serif; font-weight: 200;text-align: center;"> </h4>
+        <div><img src="cuide-se-removebg-preview.png" /></div>
+    </div>
+    
+</body>
+</html>
